@@ -4,6 +4,8 @@ Here is the implementation of SOCKS5 proxy server using Go
 
 wiki: https://en.wikipedia.org/wiki/SOCKS
 
+RFC SOCKS5: https://www.rfc-editor.org/rfc/rfc1928.html
+
 
 You can find example in `example` folder
 
